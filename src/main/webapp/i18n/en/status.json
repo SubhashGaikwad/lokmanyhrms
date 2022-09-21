@@ -1,0 +1,9 @@
+{
+  "lokmanyhrmsApp": {
+    "Status": {
+      "null": "",
+      "ACTIVE": "Active",
+      "INACTIVE": "Inactive"
+    }
+  }
+}
